@@ -33,7 +33,10 @@ function BarcodeScanner() {
     };
   }, []);
 
-  return <div id="barcode-scanner"></div>;
+  return <div id="barcode-scanner"><div id="">
+    <p>fjierjfiof</p>
+    </div>;</div>;
+   
 }
 
 export default BarcodeScanner;
